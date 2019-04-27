@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  margin-left: 50px;
+  padding: 30px;
+  text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-color:blue;
+}
+body {
+  font-family: Arial;
+  padding: 10px;
+  background-image: url(awan.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.card {
+  background-image: url(putih.jpg);
+  padding : 150px;
+  margin-top: 20px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.topnav a{
+  text-decoration: none;
+  color: white;
+}
+.topnav a:hover{
+  background-color: green;
+  text-decoration: none;
+  color: white;
+}
